@@ -25,7 +25,7 @@
 <div class="slider-content-wrap d-flex align-items-center text-center">
 <div class="container">
 <div class="slider-content">
-<div class="dl-caption medium"><div class="inner-layer"><div data-animation="fade-in-top" data-delay="1s"></div></div></div>
+<div class="dl-caption medium"><div class="inner-layer"><div data-animation="fade-in-top" data-delay="1s">hi</div></div></div>
 <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-bottom" data-delay="2s">We are professional</div></div>
 </div>
 <div class="dl-caption big"><div class="inner-layer"><div data-animation="fade-in-bottom" data-delay="2.5s">in construction projects.</div></div></div>
